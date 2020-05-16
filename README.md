@@ -1,3 +1,14 @@
+# Form validation example with React, react-form-hook Material UI and yup
+
+This is a sample project for [my blog](https://rogulski.it) showing simple form validation.
+
+## Dependencies:
+
+- [React](https://reactjs.org/)
+- [Material-ui](https://material-ui.com/)
+- [yup](https://www.npmjs.com/package/yup)
+- [typescript](https://www.npmjs.com/package/typescript)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
